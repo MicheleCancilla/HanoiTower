@@ -1,5 +1,5 @@
 # HanoiTower
-Hanoi Tower implemented in MATLAB
+Hanoi Tower implemented in MATLAB using Q-learning
 
 In order to play a "console" game you have to run "towerOfHanoi.m" script, setting the follow parameters:
 {nOfDisks, gamma, alpha, epsilon}
